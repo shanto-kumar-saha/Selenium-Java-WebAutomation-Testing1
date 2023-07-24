@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is a simple web automation project in Selenium and java. i will keep update it as the testcase</p>
+This is a web automation project in Selenium and java. i will keep update it as the testcase</p>
 
  <!--<h2>📸 Project Screenshots</h2>
 
