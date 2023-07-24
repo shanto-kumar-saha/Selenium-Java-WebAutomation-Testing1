@@ -8,9 +8,15 @@ This is a web automation project in Selenium and java. i will keep update it as 
 
 <h2>📸 Project Screenshots</h2>
 
-<h3> GmailLogin- <h3>
+<h3> Gmail Login- <h3>
  
 ![GmailLogin](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/8518d5e9-9c8e-41b3-8cf2-c02b0285b895)
+
+<h3> POM File- <h3>
+ 
+![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/b067f294-345f-4f24-afb9-f4f52646d2b7)
+
+
 
 
 <h2>🚀 Features</h2>
