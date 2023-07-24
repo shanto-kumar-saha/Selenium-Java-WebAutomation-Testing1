@@ -32,7 +32,7 @@ Technologies used in the project:
 
 *   Java Language
 *   Selenium
-*   TestNG
+ <!--*   TestNG-->
 *   Maven
 
  <!--<h1> There is some problem with the site which i take for this project, maybe domain problem. so i am trying to replace this with another site asap </h1> -->
