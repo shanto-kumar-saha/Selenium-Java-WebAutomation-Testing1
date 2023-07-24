@@ -8,6 +8,11 @@ This is a web automation project in Selenium and java. i will keep update it as 
 
 <h2>📸 Project Screenshots</h2>
 
+<h3> Package Explorer- <h3>
+
+![Package Explorer](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/0333919d-fa10-49b2-a3c5-e16452304a6f)
+
+
 <h3> Gmail Login- <h3>
  
 ![GmailLogin](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/8518d5e9-9c8e-41b3-8cf2-c02b0285b895)
