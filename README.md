@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is a simple web automation project in Selenium and java. Where you can go through the website and order a book by given information. And i will keep update it as the testcase</p>
+This is a simple web automation project in Selenium and java. i will keep update it as the testcase</p>
 
 <h2>📸 Project Screenshots</h2>
 
@@ -35,4 +35,4 @@ Technologies used in the project:
 *   TestNG
 *   Maven
 
-<h1> There is some problem with the site which i take for this project, maybe domain problem. so i am trying to replace this with another site asap </h1>
+ <!--<h1> There is some problem with the site which i take for this project, maybe domain problem. so i am trying to replace this with another site asap </h1> -->
