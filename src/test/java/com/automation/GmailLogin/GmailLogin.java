@@ -26,12 +26,12 @@ public class GmailLogin {
 		driver.get("http://gmail.com/");
 		driver.manage().window().maximize();
 		
-		driver.findElement(By.xpath("//input[@type='email']")).sendKeys("sahasqa@gmail.com");
+		driver.findElement(By.xpath("//input[@type='email']")).sendKeys("abc@gmail.com");
 		driver.findElement(By.xpath("//div[@id='identifierNext']")).click();
 		
 	//	driver.manage().timeouts().implicitlyWait(3000, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
-		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("saha123");
+		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("abc");
 		driver.findElement(By.xpath("//div[@id='passwordNext']")).click();	
 	
 	}
