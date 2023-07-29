@@ -18,7 +18,7 @@ This is a web automation project in Selenium and java. I will keep update it as 
 ![Gmail LogIn](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/980645a0-0454-484c-9308-348f778fb860)
 
 
-<h3> POM File- <h3>
+<h3> POM- <h3>
  
 ![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testiing/assets/122052172/b067f294-345f-4f24-afb9-f4f52646d2b7)
 
