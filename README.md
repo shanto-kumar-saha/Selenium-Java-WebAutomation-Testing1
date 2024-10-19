@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is a web automation project in Selenium and java. I will keep update it as the testcase</p>
+This web automation project is developed using Selenium and Java, featuring Gmail login functionality. It automatically opens the Chrome browser, navigates to the Gmail login URL, inputs the username and password, and presses the login button for successful access. I will continuously update it with test cases. </p>
 
 <h2>📸 Project Screenshots</h2>
 
